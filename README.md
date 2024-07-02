@@ -44,11 +44,11 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 
 <br>
 <p align="center">
-<a padding="10px" href="https://fb.com/https://www.facebook.com/dinmuhammad.jewel" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dinmuhammad.jewel" height="30" width="40" /></a>
-  <img src="images/java-script.png" alt="JavaScript"/>
-  <img src="images/letter-c.png" alt="C"/>
-  <img src="images/c-.png" alt="C++"/>
-  <img src="images/python.png" alt="Python"/>
+
+  <img src="images/java-script.png" height="30" width="40" alt="JavaScript"/>
+  <img src="images/letter-c.png" height="30" width="40" alt="C"/>
+  <img src="images/c-.png" height="30" width="40" alt="C++"/>
+  <img src="images/python.png" height="30" width="40" alt="Python"/>
 </p>
 </br>
 
