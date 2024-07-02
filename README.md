@@ -1,28 +1,21 @@
 <img src="https://i.postimg.cc/25BYsNKH/fd.png" alt="Din Muhammad">
-<h1 align="center">Hi 👋, I'm Din Muhammad</h1>
+<h1 align="center">I'm Din Muhammad</h1>
 <h3 align="center">A frontend developer || Teacher</h3>
 
 - 🔭 I’m currently working on [Medical Camp Management](https://medical-camp-management-6978c.web.app/)
 
-- 🌱 I’m currently learning **React Native, Node js**
 
 - 👯 I’m looking to collaborate on [Assignment Management](https://assignment-11-baa86.web.app/)
 
 - 🤝 I’m looking for help with [Art and Craft Management](https://art-store-fe201.web.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://jewel-190237.github.io/personal-site/)
 
 - 💬 Ask me about **HTML, CSS, React, Node js**
 
 - 📫 How to reach me **190237@ku.ac.bd**
 
-- 📄 Know about my experiences [resume of Din Muhammad](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
-
 ## :computer: About Me
-<p>
-<img src="images/java-script.png" height="40" width="40" alt="JavaScript"/>
+
 <p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
 
 My expertise includes:
@@ -32,6 +25,10 @@ My expertise includes:
 - Experienced in Git for version control. <br>
 - I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using Django, and a personal portfolio website.
 - I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
+
+ Know about my experiences [resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
+ <br>
+ All of my projects are available at [Portfolio](https://jewel-190237.github.io/personal-site/)
 
 </p>
 
