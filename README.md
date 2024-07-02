@@ -26,9 +26,9 @@ My expertise includes:
 - I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using Django, and a personal portfolio website.
 - I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
 
- Know about my experiences [resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
+<h3>Know about my experiences: [resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing) </h3>
  <br>
- All of my projects are available at [Portfolio](https://jewel-190237.github.io/personal-site/)
+<h3> All of my projects are available at [Portfolio](https://jewel-190237.github.io/personal-site/) </h3>
 
 </p>
 
