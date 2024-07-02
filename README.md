@@ -40,17 +40,33 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 </p>
 
 <h3 align="center">Programming Languages</h3>
-
-
-<br>
 <p align="center">
-
-  <img src="images/java-script.png" height="30" width="40" alt="JavaScript"/>
-  <img src="images/letter-c.png" height="30" width="40" alt="C"/>
-  <img src="images/c-.png" height="30" width="40" alt="C++"/>
-  <img src="images/python.png" height="30" width="40" alt="Python"/>
+  <img src="images/java-script.png" height="40" width="40" alt="JavaScript"/>
+  <img src="images/letter-c.png" height="40" width="40" alt="C"/>
+  <img src="images/c-.png" height="40" width="40" alt="C++"/>
+  <img src="images/python.png" height="40" width="40" alt="Python"/>
 </p>
-</br>
+
+<h3 align="center" >Web Application</h3>
+<p align="center">
+  <img src="images/html-5.png" height="40" width="40" alt="HTML"/>
+  <img src="images/css-3.png" height="40" width="40" alt="CSS"/>
+  <img src="images/physics.png" height="40" width="40" alt="React"/>
+  <img src="images/node-js-.png" height="40" width="40" alt="Node js"/>
+  <img src="images/firebase.png" height="40" width="40" alt="firebase"/>
+  <img src="images/mongodb.png" height="40" width="40" alt="mongoDB"/>
+  <img src="images/node-js.png" height="40" width="40" alt="express"/>
+  <img src="images/tailwindCSS.png" height="40" width="40" alt="tailwind"/>
+</p>
+<h3 align="center" >Others tools</h3>
+<p align="center">
+  <img src="images/github.png" height="40" width="40" alt="git"/>
+  <img src="images/figma.png" height="40" width="40" alt="figma"/>
+  <img src="images/overleaf.png" height="40" width="40" alt="overleaf"/>
+  
+</p>
+
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" /></p>
 
