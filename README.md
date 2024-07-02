@@ -20,6 +20,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+## :computer: About Me
 <p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
 
 My expertise includes:
@@ -32,7 +33,7 @@ I have successfully developed and maintained multiple websites and web applicati
 
 I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
 
-<h3 align="left">Connect with me:</h3>
+## :connection: Connect with me
 <p align="center">
 <a padding="10px" href="https://twitter.com/dinmuhamma6730" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinmuhamma6730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/din-muhammad-jewel/" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/din-muhammad-jewel/" height="30" width="40" /></a>
@@ -71,7 +72,7 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 
 <br />
 <p align="center">
-  <img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel-190237&theme=react&hide_border=true&background=0D1117" alt="jewel-190237" />
+  <img width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel-190237&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="jewel-190237" />
 </p>
 
 <p align="center">
