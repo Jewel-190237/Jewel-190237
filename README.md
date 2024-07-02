@@ -21,6 +21,8 @@
 - ⚡ Fun fact **I think I am funny**
 
 ## :computer: About Me
+<p>
+<img src="images/java-script.png" height="40" width="40" alt="JavaScript"/>
 <p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
 
 My expertise includes:
@@ -30,6 +32,8 @@ My expertise includes:
 - Experienced in Git for version control. <br>
 - I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using Django, and a personal portfolio website.
 - I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
+
+</p>
 
 ## :speech_balloon: Connect with me
 <p align="center">
