@@ -39,6 +39,8 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 <a padding="10px" href="https://fb.com/https://www.facebook.com/dinmuhammad.jewel" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dinmuhammad.jewel" height="30" width="40" /></a>
 </p>
 
+## :computer: Technologies I am proficient in
+
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="images/java-script.png" height="40" width="40" alt="JavaScript"/>
@@ -63,11 +65,14 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
   <img src="images/github.png" height="40" width="40" alt="git"/>
   <img src="images/figma.png" height="40" width="40" alt="figma"/>
   <img src="images/overleaf.png" height="40" width="40" alt="overleaf"/>
-  
 </p>
 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel-190237&" alt="jewel-190237" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel-190237&" alt="jewel-190237" /></p>
