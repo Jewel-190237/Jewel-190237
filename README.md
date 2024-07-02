@@ -24,16 +24,14 @@
 <p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
 
 My expertise includes:
+- Front-end development with HTML, CSS, JavaScript, and React. <br>
+- Back-end development using Node.js and Express. <br>
+- Proficient in database management with MySQL and MongoDB. <br>
+- Experienced in Git for version control. <br>
+- I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using Django, and a personal portfolio website.
+- I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
 
-Front-end development with HTML, CSS, JavaScript, and React. <br>
-Back-end development using Node.js and Express. <br>
-Proficient in database management with MySQL and MongoDB. <br>
-Experienced in Git for version control. <br>
-I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional e-commerce platform built with React and Node.js, a dynamic blog platform using Django, and a personal portfolio website.
-
-I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
-
-## :connection: Connect with me
+## :speech_balloon: Connect with me
 <p align="center">
 <a padding="10px" href="https://twitter.com/dinmuhamma6730" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinmuhamma6730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/din-muhammad-jewel/" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/din-muhammad-jewel/" height="30" width="40" /></a>
