@@ -40,7 +40,7 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 </p>
 
 <h3 align="center">Programming Languages</h3>
-<p align="center">
+<p>
   <img src="images/java-script.png" alt="JavaScript"/>
   <img src="images/letter-c.png" alt="C"/>
   <img src="images/c-.png" alt="C++"/>
