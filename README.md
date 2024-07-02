@@ -71,8 +71,12 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 
 <br />
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" />
-
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jewel-190237&" alt="jewel-190237" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" />
+</p>
+
+
 
