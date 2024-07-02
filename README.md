@@ -40,14 +40,16 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 </p>
 
 <h3 align="center">Programming Languages</h3>
-<p>
+
+<br>
+<p align="center">
   <img src="images/java-script.png" alt="JavaScript"/>
   <img src="images/letter-c.png" alt="C"/>
   <img src="images/c-.png" alt="C++"/>
   <img src="images/python.png" alt="Python"/>
 </p>
 
-<br>
+</br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" /></p>
 
