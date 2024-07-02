@@ -41,14 +41,15 @@ I excel in problem-solving, attention to detail, and teamwork, contributing effe
 
 <h3 align="center">Programming Languages</h3>
 
+
 <br>
 <p align="center">
+<a padding="10px" href="https://fb.com/https://www.facebook.com/dinmuhammad.jewel" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dinmuhammad.jewel" height="30" width="40" /></a>
   <img src="images/java-script.png" alt="JavaScript"/>
   <img src="images/letter-c.png" alt="C"/>
   <img src="images/c-.png" alt="C++"/>
   <img src="images/python.png" alt="Python"/>
 </p>
-
 </br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jewel-190237&show_icons=true&locale=en&layout=compact" alt="jewel-190237" /></p>
