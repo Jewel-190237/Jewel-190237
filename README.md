@@ -2,7 +2,7 @@
 <h1 align="center">I'm Din Muhammad</h1>
 <h3 align="center">A frontend developer || Teacher</h3>
 
-## :computer: About Me
+## 👤 About Me
 
 <p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
 
