@@ -4,7 +4,9 @@
 
 ## 👤 About Me
 
-<p> I am a dedicated web developer, passionate about continuous learning and staying updated with the latest industry trends. Graduated from Khulna University with a strong foundation in computer science, I have extensive skills in web development using various technologies.
+<p> I am Din Muhammad, a passionate Software Engineer specializing in frontend development, with a growing focus on backend and full-stack development.
+
+I hold a B.Sc. in Computer Science and Engineering from Khulna University and am currently working as a Junior Software Engineer (Frontend Developer) at Appstick Limited. In this role, I create visually appealing, scalable, and interactive web interfaces that provide seamless user experiences. Alongside my industry role, I am also a Lecturer in ICT at Akij Ideal School and College, where I guide and mentor young learners in technology and programming.
 
 My expertise includes:
 - Front-end development with HTML, CSS, JavaScript, and React. <br>
