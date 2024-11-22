@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/25BYsNKH/fd.png" alt="Din Muhammad">
 <h1 align="center">I'm Din Muhammad</h1>
-<h3 align="center">A frontend developer || Teacher</h3>
+<h3 align="center">Junior Sofrware Engineer</h3>
 
 ## 👤 About Me
 
