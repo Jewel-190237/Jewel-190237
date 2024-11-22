@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-<p> I am Din Muhammad, a passionate Software Engineer specializing in frontend development, with a growing focus on backend and full-stack development.
+<p> I am Din Muhammad Jewel, a passionate Software Engineer specializing in frontend development, with a growing focus on backend and full-stack development.
 
 I hold a B.Sc. in Computer Science and Engineering from Khulna University and am currently working as a Junior Software Engineer (Frontend Developer) at Appstick Limited. In this role, I create visually appealing, scalable, and interactive web interfaces that provide seamless user experiences. Alongside my industry role, I am also a Lecturer in ICT at Akij Ideal School and College, where I guide and mentor young learners in technology and programming.
 
