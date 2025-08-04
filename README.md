@@ -17,7 +17,7 @@ My expertise includes:
 - I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
   
 - [📄 Resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
-- [🌐 portfolio](https://jewel-190237.github.io/personal-site/)
+- [🌐 portfolio](https://din-muhammad-portfiolo.vercel.app/)
 - ✉️ 190237@ku.ac.bd
 - 📞 01980-445424
 
