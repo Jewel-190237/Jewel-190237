@@ -26,7 +26,7 @@ My expertise includes:
 ## :speech_balloon: Connect with me
 <p align="center">
 <a padding="10px" href="https://twitter.com/dinmuhamma6730" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinmuhamma6730" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/din-muhammad-jewel/" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/din-muhammad-jewel/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/din-muhammad-jewel/" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jewel190237/" height="30" width="40" /></a>
 <a padding="10px" href="https://fb.com/https://www.facebook.com/dinmuhammad.jewel" target="blank"><img padding="10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dinmuhammad.jewel" height="30" width="40" /></a>
 </p>
 
