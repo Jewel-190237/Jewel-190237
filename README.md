@@ -18,7 +18,7 @@ My expertise includes:
   
 - [📄 Resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
 - [🌐 portfolio](https://din-muhammad-portfiolo.vercel.app/)
-- ✉️ 190237@ku.ac.bd
+- ✉️ jewel190237@gmail.com
 - 📞 01980-445424
 
 </p>
