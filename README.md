@@ -16,7 +16,7 @@ My expertise includes:
 - I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using React, and a personal portfolio website.
 - I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
   
-- [📄 Resume](https://drive.google.com/file/d/1QsWlcpjyYNYhcjH15w5cJNHND3VJdbC3/view?usp=sharing)
+- [📄 Resume](https://drive.google.com/file/u/1/d/1JbXGjs3njunqxf0Wc6dCiVsAOqCJ_epY/view?pli=1)
 - [🌐 portfolio](https://din-muhammad-portfiolo.vercel.app/)
 - ✉️ jewel190237@gmail.com
 - 📞 01980-445424
