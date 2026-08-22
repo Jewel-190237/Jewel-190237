@@ -4,24 +4,37 @@
 
 ## 👤 About Me
 
-<p> I am Din Muhammad Jewel, a passionate Software Engineer specializing in frontend development, with a growing focus on backend and full-stack development.
+I'm **Din Muhammad Jewel**, a Software Engineer specializing in frontend development, with a growing focus on backend and full-stack engineering. I hold a **B.Sc. in Computer Science and Engineering** from Khulna University and currently work as a **Junior Software Engineer** at **TechOptions Limited**, where I build responsive, scalable, and interactive web interfaces using **Next.js** and **React.js**, while progressively taking on backend responsibilities as part of a full MERN stack workflow.
 
-I hold a B.Sc. in Computer Science and Engineering from Khulna University and currently work as a Junior Software Engineer (Frontend Developer) at Appstick Limited. In this role, I create visually appealing, scalable, and interactive web interfaces that provide seamless user experiences. Alongside my industry role, I am also a Lecturer in ICT at Akij Ideal School and College, where I guide and mentor young learners in technology and programming.
+Previously, I worked as a **Junior Software Engineer (Frontend Developer)** at **Appstick Limited**, where I developed visually appealing, user-focused web interfaces and contributed to the end-to-end delivery of production features.
 
-My expertise includes:
-- Front-end development with HTML, CSS, JavaScript, and React. <br>
-- Back-end development using Node.js and Express. <br>
-- Proficient in database management with MySQL and MongoDB. <br>
-- Experienced in Git for version control. <br>
-- I have successfully developed and maintained multiple websites and web applications, emphasizing user experience and performance optimization. Notable projects include a fully functional <b> Medical Camp management </b> platform built with React and Node.js, a dynamic blog platform using React, and a personal portfolio website.
-- I excel in problem-solving, attention to detail, and teamwork, contributing effectively to collaborative projects. My goal is to leverage my skills and passion for creating impactful web solutions. </p>
-  
-- [📄 Resume](https://drive.google.com/file/u/1/d/1JbXGjs3njunqxf0Wc6dCiVsAOqCJ_epY/view?pli=1)
-- [🌐 portfolio](https://din-muhammad-portfiolo.vercel.app/)
+Alongside my industry experience, I serve as an **ICT Lecturer** at Akij Ideal School and College, mentoring young learners in technology and programming.
+
+### 💼 Experience
+
+**Junior Software Engineer** — TechOptions Limited *(Current)*
+Focused on frontend development with Next.js and React.js, while expanding into backend development to contribute across the full stack.
+
+**Junior Software Engineer (Frontend Developer)** — Appstick Limited *(Previous)*
+Built scalable, interactive web interfaces with an emphasis on performance and user experience.
+
+**ICT Lecturer** — Akij Ideal School and College
+Teaching and mentoring students in technology and programming fundamentals.
+
+### 🛠️ Technical Expertise
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Postman, REST APIs, Vercel, Netlify
+
+I'm driven by problem-solving, attention to detail, and collaborative teamwork, with a clear goal of growing into a well-rounded full-stack engineer while continuing to deliver impactful, user-centered web solutions.
+
+---
+
+- 📄 [Resume](https://drive.google.com/file/u/1/d/1JbXGjs3njunqxf0Wc6dCiVsAOqCJ_epY/view?pli=1)
+- 🌐 [Portfolio](https://din-muhammad-portfiolo.vercel.app/)
 - ✉️ jewel190237@gmail.com
 - 📞 01980-445424
-
-</p>
 
 ## :speech_balloon: Connect with me
 <p align="center">
