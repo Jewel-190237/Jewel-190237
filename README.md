@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/mC7Z4C3R/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="Din Muhammad">
+<img src="https://ibb.co.com/35G1JGt0" alt="Din Muhammad">
 <h1 align="center">I'm Din Muhammad</h1>
 <h3 align="center">Sofrware Engineer</h3>
 
